@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Admin",
+      "urlPicture": "https://br.freepik.com/fotos-gratis/o-gato-vermelho-ou-branco-eu-no-estudio-branco_9405869.htm#query=gato&position=0&from_view=keyword&track=sph",
+      "id": 1
+    },
+    {
+      "email": "aya@gmail.com",
+      "password": "$2a$10$0plui14F9b8tqccnbnEbGO7xYzzFQl22l2i8z2NtPahEPpW5U8zey",
+      "name": "Aya",
+      "confirmPassword": "123456",
+      "urlPicture": "https://br.freepik.com/fotos-gratis/o-gato-vermelho-ou-branco-eu-no-estudio-branco_9405869.htm#query=gato&position=0&from_view=keyword&track=sph",
+      "id": 2
+    }
+  ],
+  "register": [
+    {
+      "name": "Teste",
+      "email": "teste@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "urlPicture": "https://br.freepik.com/fotos-gratis/o-gato-vermelho-ou-branco-eu-no-estudio-branco_9405869.htm#query=gato&position=0&from_view=keyword&track=sph"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Responder Email",
+      "category": "Anotações",
+      "date": "12/05/2023",
+      "description": "Responder emails da Laura",
+      "value": null,
+      "id": 1
+    },
+    {
+      "title": "Ler 1 capitulo do livro",
+      "category": "Anotações",
+      "date": "15/03/2023",
+      "description": "Leia",
+      "value": null,
+      "id": 2
+    },
+    {
+      "title": "Pagar Conta de Luz",
+      "category": "Controle Financeiro",
+      "date": "10/03/2023",
+      "description": "Se não ficaremos no escuro",
+      "value": 130,
+      "id": 3
+    },
+    {
+      "title": "Salario",
+      "category": "Controle Financeiro",
+      "date": "10/03/2023",
+      "description": "To rica",
+      "value": 3.5,
+      "id": 4
+    },
+    {
+      "title": "Prova de TI",
+      "category": "Estudos",
+      "date": "10/03/2023",
+      "description": "estudar para prova",
+      "value": null,
+      "id": 5
+    }
+  ]
+}
