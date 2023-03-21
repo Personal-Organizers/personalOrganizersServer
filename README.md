@@ -1,4 +1,4 @@
-<h1 align="center">Borscht House</h1>
+<h1 align="center">Personal Organizers</h1>
 
 Fake API a base de JSON-Server + JSON-Server-Auth, feita para ser usada no desenvolvimento das API's nos Capstones do Q2.
 
@@ -38,8 +38,8 @@ POST /users - FORMATO DA RESPOSTA - STATUS 201
 {
 	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImF5YUBnbWFpbC5jb20iLCJpYXQiOjE2Nzk0MjU3NDIsImV4cCI6MTY3OTQyOTM0Miwic3ViIjoiMiJ9.8Yvti0qw0LRGKDbWNjWCc3FeZtE4bkCC_7Yi0_DQ4Lo",
 	"user": {
-		"email": "aya@gmail.com",
-		"name": "Aya",
+		"email": "teste@gmail.com",
+		"name": "Teste",
 		"confirmPassword": "123456",
 		"urlPicture": "https://br.freepik.com/fotos-gratis/o-gato-vermelho-ou-branco-eu-no-estudio-branco_9405869.htm#query=gato&position=0&from_view=keyword&track=sph",
 		"id": 2
@@ -75,7 +75,7 @@ Email já cadastrado:
 
 ```
 {
-  "email": "test@mail.com",
+  "email": "admin@mail.com",
   "password": "123456"
 }
 ```
